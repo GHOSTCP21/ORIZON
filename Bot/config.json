@@ -1,0 +1,29 @@
+{
+  "token": "MTUwMjM3MDM4MTM2ODAwMDc0Mg.GupNOI.u9Su0xaJLWCx2VP8O0GiQ8NK9Qsv--h8F9PMoY",
+  "clientId": "1502370381368000742",
+  "guildId": "1501663976667349202",
+  "colors": {
+    "primary": "#1E3A8A",
+    "accent": "#E63946",
+    "white": "#FFFFFF",
+    "cyan": "#00F5FF"
+  },
+  "channels": {
+    "logs": "1502024680553447565",
+    "suggestions": "ID_SALON_SUGGESTIONS",
+    "reports": "ID_SALON_REPORTS"
+  },
+  "roles": {
+    "member": "1502366849285754891",
+    "verified": "1502366757094953053",
+    "muted": "ID_ROLE_MUTED"
+  },
+  "economy": {
+    "dailyReward": 100,
+    "workMin": 50,
+    "workMax": 200,
+    "robSuccessRate": 0.4,
+    "currencyName": "ORZ Coins",
+    "currencySymbol": "🪙"
+  }
+}
